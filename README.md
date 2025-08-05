@@ -1,5 +1,5 @@
 Project Title: Global Sales Performance Dashboard
-A dashboard that compares sales across continents and identifies the
+:A dashboard that compares sales across continents and identifies the
 top- performing regions.
 Summary:
 Focused on building a visual dashboard to compare regional sales, profits,
